@@ -1,0 +1,17 @@
+region_id,region,city,isMainland,machine_rate
+ap-bangkok,ap,bangkok,0,0.48
+ap-beijing,ap,beijing,1,0.39
+ap-chengdu,ap,chengdu,1,0.33
+ap-chongqing,ap,chongqing,1,0.39
+ap-guangzhou,ap,guangzhou,1,0.31
+ap-hongkong,ap,hongkong,0,0.45
+ap-mumbai,ap,mumbai,0,0.32
+ap-seoul,ap,seoul,0,0.32
+ap-shanghai,ap,shanghai,1,0.38
+ap-singapore,ap,singapore,0,0.35
+ap-tokyo,ap,tokyo,0,0.31
+eu-frankfurt,eu,frankfurt,0,0.35
+eu-moscow,eu,moscow,0,0.36
+na-ashburn,na,ashburn,0,0.35
+na-siliconvalley,na,siliconvalley,0,0.34
+na-toronto,na,toronto,0,0.48
